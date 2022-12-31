@@ -1,0 +1,64 @@
+
+
+#btnCambiar{
+    background-color: aquamarine;
+    color: brown;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px;
+
+}
+
+input{
+    margin-top: 10px;
+    color: blueviolet;
+    
+}
+ 
+
+#btn{
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+#btn:hover{
+    opacity: 70%;
+    background-color: burlywood;
+}
+
+#btnCambiar:hover{
+    opacity: 50%;
+    background-color: chartreuse;
+
+}
+
+
+#par{
+    width: 80%;
+    background-color:cadetblue;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+.colorPar{
+    width: 80%;
+    background-color:blue;
+    text-align: center;
+    margin: 10px;
+}
+
+#impar{
+    width: 80%;
+    background-color:cadetblue;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+#estilo1{
+    background-color: aquamarine;
+}
